@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "theme": "Évaluation des réponses et stratégies métacognitives",
+    "sous_theme": "Méthodes d'évaluation de la qualité des réponses",
+    "verbatim": "- Comment évaluez-vous la qualité et la fiabilité des réponses fournies par ChatGPT ?"
+  },
+  {
+    "theme": "Adaptation des pratiques académiques",
+    "sous_theme": "Influence de ChatGPT sur les approches de travail",
+    "verbatim": "- Suite aux réponses générées par ChatGPT, modifiez-vous parfois votre approche d’un sujet ou votre méthode de travail ?"
+  },
+  {
+    "theme": "Dépendance et avantage académique",
+    "sous_theme": "Perception de l'avantage compétitif",
+    "verbatim": "- Pensez-vous que l’utilisation de ChatGPT vous donne un avantage par rapport aux autres étudiants ? En quoi ?"
+  },
+  {
+    "theme": "Rôle d'accompagnement et légitimité",
+    "sous_theme": "Utilité pratique de ChatGPT",
+    "verbatim": "- Estimez-vous que ChatGPT remplit un rôle d’accompagnement que vous ne trouviez pas ailleurs (par exemple, la rapidité des réponses ou l’accessibilité constante) ?"
+  },
+  {
+    "theme": "Dépendance et auto-évaluation",
+    "sous_theme": "Crainte de la surdépendance",
+    "verbatim": "- Avez-vous parfois l’impression de dépendre trop de ChatGPT ?"
+  },
+  {
+    "theme": "Perception des enjeux éthiques",
+    "sous_theme": "Citation et acknowledgment de l'outil",
+    "verbatim": "Comment vous positionnez-vous face aux enjeux éthiques liés à l'utilisation de ChatGPT (par exemple, citer son utilisation, reformuler les réponses fournies) ?"
+  },
+  {
+    "theme": "Tensions entre gains de temps et apprentissage",
+    "sous_theme": "Impact sur la compréhension des tâches académiques",
+    "verbatim": "Quel rôle joue ChatGPT dans votre compréhension initiale des tâches et votre capacité à clarifier les attentes liées aux projets académiques ?"
+  },
+  {
+    "theme": "Usages légitimes vs non légitimes",
+    "sous_theme": "Contextes d'acceptabilité variable",
+    "verbatim": "Pensez-vous que l'utilisation de ChatGPT soit légitime pour certains travaux académiques mais non pour d'autres ? Pourquoi ?"
+  },
+  {
+    "theme": "Réactions institutionnelles",
+    "sous_theme": "Connaissance et réactions des enseignants",
+    "verbatim": "Les enseignants sont-ils au courant de vos usages de ChatGPT, et comment réagissent-ils à ce sujet ?"
+  },
+  {
+    "theme": "Dilemmes moraux",
+    "sous_theme": "Questionnements éthiques personnels",
+    "verbatim": "Avez-vous déjà ressenti un dilemme moral à utiliser ChatGPT pour vos travaux ? Si oui, pouvez-vous nous en dire plus ?"
+  },
+  {
+    "theme": "Since",
+    "sous_theme": "Évolution des pratiques d'étude",
+    "verbatim": "Y a-t-il d'autres points que vous souhaiteriez aborder concernant ChatGPT et son impact sur votre manière d'étudier ?"
+  }
+]

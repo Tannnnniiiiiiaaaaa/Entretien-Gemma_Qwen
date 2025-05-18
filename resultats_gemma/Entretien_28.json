@@ -1,0 +1,77 @@
+[
+  {
+    "theme": "Utilisation de Chat GPT",
+    "sous_theme": "Contexte de l'utilisation",
+    "verbatim": "Et donc, on essaie de faire une sorte d'enquête sur l'impact de Chat GPT sur le travail et l'apprentissage. Et donc, on doit mener des entretiens avec des personnes qui utilisent Chat GPT dans le cadre de leurs études."
+  },
+  {
+    "theme": "Confidentialité des données",
+    "sous_theme": "Anonymisation",
+    "verbatim": "Les réponses, elles seront confidentielles, donc elles ne seront pas partagées sur une autre plateforme publique, en accès à d'autres personnes. En gros, on ne va pas les partager avec n'importe qui, c'est juste dans le cadre de ce cours. Et petit rappel aussi, il n'y aura pas de mauvaises réponses, c'est-à-dire que je n'attends pas une certaine réponse de ta part, c'est vraiment juste... Enfin, tu ne dois pas être en mode genre... Voilà, c'est juste toi, tu me racontes un peu comment tu utilises. Et puis, là je suis déjà en train d'enregistrer, mais est-ce que du coup tu es d'accord avec le fait que je t'enregistre et que, en gros, notre entretien sera retranscrit et utilisé pour cette enquête ?"
+  },
+  {
+    "theme": "Parcours universitaire",
+    "sous_theme": "Formation",
+    "verbatim": "Donc, j'ai fait une matu à Nyon et en option en maths physique et par la suite j'ai prolongé sur un bachelor en génie civil à l'EPFL où sur les trois ans j'ai fait ma dernière année à l'étranger, au Danemark et là je suis en année de césure en train de travailler avant de poursuivre mon master."
+  },
+  {
+    "theme": "Utilisation de Chat GPT",
+    "sous_theme": "Contexte d'utilisation",
+    "verbatim": "Ouais, c'était pendant le bachelor, que ce soit à Lausanne ou au Danemark."
+  },
+  {
+    "theme": "Définition de l'intelligence artificielle",
+    "sous_theme": "Description générale",
+    "verbatim": "si tu devais décrire Chat GPT et l'intelligence artificielle par tes propres mots, un peu de manière générale, comment est-ce que tu définirais chat GPT ?"
+  },
+  {
+    "theme": "Perception de l'IA",
+    "sous_theme": "Utilité de l'IA",
+    "verbatim": "Pour moi c'est un outil. Qui est pas... qui n'est pas non plus fiable à 100%, mais qui, dans certains domaines notamment… technique. Quand je dis technique, je pense surtout à genre de la prog ou des trucs comme ça, où c'est là où il est très... fin Chat GPT notamment, il est très utile."
+  },
+  {
+    "theme": "Risques liés à l'utilisation de l'IA",
+    "sous_theme": "Dépendance à l'IA",
+    "verbatim": "Donc il faut quand même faire l'effort de… Faut pas juste demander à une IA et prendre sa réponse, mais il faut quand même avoir de la réflexion derrière pour comprendre."
+  },
+  {
+    "theme": "Importance de la réflexion critique",
+    "sous_theme": "Compréhension et adaptation",
+    "verbatim": "Et est-ce que toi, du coup, est-ce que tu fais... Tu viens... Tu dis du coup, on peut adapter la réponse, c'est ça ?"
+  },
+  {
+    "theme": "Fiabilité des informations fournies par Chat GPT",
+    "sous_theme": "Méthodes de vérification",
+    "verbatim": "Donc tu vas faire tes recherches de ton côté, ou tu vas comparer avec ton cours, ou tu cherches d'autres sources."
+  },
+  {
+    "theme": "Utiliser Google pour vérifier les informations",
+    "sous_theme": "Recherche sur le même thème",
+    "verbatim": "En soi, Google c'est déjà une bonne source. Enfin, c'est pas une source en soi, mais c'est pour chercher dans le même thème que le thème de la question qui a été posée à Chat GPT."
+  },
+  {
+    "theme": "Difficultés à trouver des sources fiables",
+    "sous_theme": "Manque de sources pertinentes",
+    "verbatim": "Ce qui est un peu difficile quand c'est des sujets très spécifiques et tu trouves un peu rien à part des rapports académiques de 500 pages et t'as pas le temps de tout lire."
+  },
+  {
+    "theme": "Importance des experts",
+    "sous_theme": "Consultation d'experts",
+    "verbatim": "Et... Ouais, enfin même... Enfin, j'a"
+  },
+  {
+    "theme": "Fiabilité des sources d'information",
+    "sous_theme": "Méfiance envers les sources en ligne",
+    "verbatim": "i envie de dire, sur YouTube, il y a certaines personnes qui expliquent ces choses dans des vidéos, mais de nouveau, c'est pas... C'est toujours à prendre avec des pincettes, mais n'importe quel type."
+  },
+  {
+    "theme": "Méthodologie de recherche",
+    "sous_theme": "Importance de la véracité",
+    "verbatim": "Donc, des fois, il y a de la flemme aussi. Mais en fait, si je demande... À Chat GPT et que, en fonction de la réponse, je vais faire un choix décisif sur un projet, je vais prendre du temps à chercher. Et voir, par réflexe, si je sais en moi que c'est un choix décisif, j’vais pas demander à Chat GPT, mais je vais chercher d'abord."
+  },
+  {
+    "theme": "Utilisation de l'IA",
+    "sous_theme": "Confiance en l'IA pour certaines tâches",
+    "verbatim": "pour des questions de prog, je fais plus confiance à l'IA"
+  }
+]

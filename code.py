@@ -58,7 +58,7 @@ Important :
 """
     try:
         response = client.chat.completions.create(
-            model="qwen-qwq-32b",
+            model="gemma2-9b-it",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=800
@@ -73,7 +73,7 @@ Important :
         return f"[Erreur lors de l'analyse : {e}]"
 
 # 7. Créer dossier de résultats
-os.makedirs("resultats", exist_ok=True)
+os.makedirs("resultats_gemma", exist_ok=True)
 
 # 8. Boucle sur les entretiens
 for idx, path in enumerate(pdf_paths, 1):
@@ -112,7 +112,7 @@ for idx, path in enumerate(pdf_paths, 1):
         time.sleep(17)
 
     # Enregistrer dans un fichier JSON
-    fichier_resultat = f"resultats/Entretien_{idx}.json"
+    fichier_resultat = f"resultats_gemma/Entretien_{idx}.json"
     with open(fichier_resultat, "w", encoding="utf-8") as f:
         json.dump(analyses, f, indent=2, ensure_ascii=False)
 

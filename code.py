@@ -84,7 +84,7 @@ for idx, path in enumerate(pdf_paths, 1):
     # Diviser en morceaux de 1000 caractères
     morceaux = [texte[i:i+1500] for i in range(0, len(texte), 1500)]
     # Limiter le nombre de morceaux à 3 maximum
-    morceaux = morceaux[:3]
+    morceaux = morceaux[:5]
     analyses = []
 
     for i, morceau in enumerate(morceaux):

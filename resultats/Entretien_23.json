@@ -1,0 +1,42 @@
+[
+  {
+    "theme": "Parcours académique et formation",
+    "sous_theme": "Composition des études (majeures/minimes)",
+    "verbatim": "Je suis en master en sociétés plurielles avec option sociologie, ici à (nom de ville). Euh et j’ai fait un bachelor en sociologie à (nom de ville) aussi, en… Ma majeure c'était sociologie et pis ma mineure c'était en sciences de la communication et des médias. Et pis là je fais mon master du coup aussi en socio avec une mineure en sociétés numériques. Voilà. Que je fais en anglais."
+  },
+  {
+    "theme": "Motivations et intérêts académiques",
+    "sous_theme": "Influence d’une expérience professionnelle antérieure",
+    "verbatim": "J'ai fait un stage relationnel en journalisme, avant mes études. Et en fait, je me suis intéressée, enfin par ce stage, je me suis dit, la société c'est tellement vaste."
+  },
+  {
+    "theme": "Perception de la sociologie",
+    "sous_theme": "Curiosité face à la complexité sociale",
+    "verbatim": "La société c'est tellement vaste. Il y a beaucoup de choses, et euh… J'avais l'impression de rien connaître en fait finalement de la sociét"
+  },
+  {
+    "theme": "Choix académique et orientation",
+    "sous_theme": "Hésitation entre sociologie et psychologie",
+    "verbatim": "J'hésitais avec la psycho, mais bon ouais la socio c'est quand je lisais les descriptifs je me disais ah mais c'est ça que j'ai envie de savoir ouais donc voilà."
+  },
+  {
+    "theme": "Gestion des responsabilités étudiantes",
+    "sous_theme": "Equilibre entre tutorat et études",
+    "verbatim": "Alors, ça va. Des fois y’a des périodes, c'est un peu chaud parce que des fois, il y’a plus uni. Genre j’dois- j'ai des présentations, machin, donc en fait je laisse un peu de côté tutrice."
+  },
+  {
+    "theme": "Satisfaction et engagement académique",
+    "sous_theme": "Plaisir dans les études",
+    "verbatim": "oui, oui oui. Tout se passe très bien et ça me plaît beaucoup."
+  },
+  {
+    "theme": "Relations enseignants-étudiants en formation en ligne",
+    "sous_theme": "Construction des relations via les outils numériques",
+    "verbatim": "Comment est-ce qu'ils construisent une relation à travers les outils numériques ? Parce que finalement, ils ne se voient pas en présentiel. Enfin en tout cas, c'est ce que j'imagine."
+  },
+  {
+    "theme": "Wait, but the user said 3-5 blocks. Each theme can have one sub-theme. Alternatively, maybe group the AI parts under one theme with multiple sub-themes. Let me see the example in the user's instruction. The example they gave had themes with one sub-theme each. Wait, looking back, the user",
+    "sous_theme": "Sous-thème: Acknowledgment of AI's Utility",
+    "verbatim": "Verbatim: \"C'est un outil très utile… Je pense. Et je conseillerais, je pense, si…"
+  }
+]

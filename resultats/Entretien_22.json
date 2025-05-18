@@ -1,0 +1,52 @@
+[
+  {
+    "theme": "Contexte de l'entretien",
+    "sous_theme": "Modalités techniques et ambiance",
+    "verbatim": "échange à distance via Microsoft Teams. Malgré le format virtuel, la discussion s’est déroulée dans une ambiance chaleureuse et bienveillante, ce qui a permis à Nina de se sentir relativement à l’aise."
+  },
+  {
+    "theme": "Caractéristiques de la participante",
+    "sous_theme": "Tempérament et approche des réponses",
+    "verbatim": "Nina est une personne naturellement timide et réservée, ce qui a pu influencer la manière dont elle a formulé certaines de ses réponses. Toutefois, elle s’est montrée ouverte et a répondu à toutes mes questions avec sincérité et réflexion."
+  },
+  {
+    "theme": "Contraintes logistiques",
+    "sous_theme": "Gestion du temps et adaptation",
+    "verbatim": "compte tenu de son emploi du temps chargé, elle n’a eu qu’une heure à m’accorder pour cet entretien. Cette contrainte de temps m’a initialement fait craindre de manquer d’opportunités pour aborder tous les points essentiels. Cependant, en progressant dans l’échange, j’ai constaté que nous avions suffisamment de temps, ce qui m’a permis de revenir sur certaines questions que je n’avais pas posées dans un premier temps."
+  },
+  {
+    "theme": "Then for the AI part:",
+    "sous_theme": "Previous studies",
+    "verbatim": "Verbatim: \"J'ai fait le bachelor en sciences sociales à Lausanne aussi entre 2019 et 2020."
+  },
+  {
+    "theme": "Hmm, so I need to group the academic background into one theme with a sub-theme about her academic trajectory. The verbatim would combine",
+    "sous_theme": "Limited familiarity with other AI applications",
+    "verbatim": "Verbatim: \"Le reste, j'avoue que je connais pas trop... j'ai jamais utilisé. Je connais moins, mais du coup, ChatGPT, je dirais que c'est un support, un outil, une aid"
+  },
+  {
+    "theme": "Perception Évolutive de ChatGPT",
+    "sous_theme": "Transition d'une opinion négative à une utilisation régulière",
+    "verbatim": "Oui bah franchement la première fois que j'en ai entendu parler c'était il y a bientôt deux ans je pense et c'était au tout début que ça s'est un petit peu démocratisé et j'avais un avis assez négatif je me disais « ah mais quel danger pour l'humanité » et tout ça je dis pas que c'est faux peut-être que c'est toujours le cas (rire) mais maintenant j'aime beaucoup l'utiliser du coup j'ai plus le même avis et oui avant je pensais vraiment pas que j'allais utiliser un jour et au final j'utilise très régulièrement"
+  },
+  {
+    "theme": "Adoption et utilisation de ChatGPT",
+    "sous_theme": "Contexte initial d'utilisation",
+    "verbatim": "Je pense que c'était pour le cours de méthode quantitative. Je pense que c'est là la première fois que j'ai utilisé à mon avis."
+  },
+  {
+    "theme": "Utilisation de la technologie dans l'enseignement supérieur",
+    "sous_theme": "Logiciels requis par la filière vs. utilisation personnelle",
+    "verbatim": "En méthode quantitative, on devait utiliser RStudio. Mais sinon, théoriquement, on n'a pas besoin d'ordinateur. Mais c'est vrai que je crois que je ne connais personne qui n'utilise pas d'ordi en master. Mais ce n'est pas nécessaire."
+  },
+  {
+    "theme": "Recours aux outils d'IA (ChatGPT)",
+    "sous_theme": "Organisation et résumé de contenu",
+    "verbatim": "J'utilise déjà pour m'aider à m'organiser, faire des plans de révision, ce genre de choses. J’utilise aussi beaucoup pour résumer des textes que j'ai lus ou que j'avoue, j'ai la flemme de lire."
+  },
+  {
+    "theme": "Ambivalence face à la dépendance technologique",
+    "sous_theme": "Conscience de la possibilité d'alternative manuelle",
+    "verbatim": "Je pourrais prendre mes notes sur papier si besoin. Mais c'est plus simple pour moi sur l'ordi en tout cas. Je pense que tu dois avoir le même avis que moi (rire)."
+  }
+]

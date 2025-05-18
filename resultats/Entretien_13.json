@@ -1,0 +1,57 @@
+[
+  {
+    "theme": "Parcours académique",
+    "sous_theme": "Formation antérieure et cursus actuel",
+    "verbatim": "je m'appelle Romain j'ai fait une une classe préparatoire grandes écoles au lycée Louis Legrand et j'ai pu être sélectionné pour entrer à l'École normale supérieure (ENS) de la Rue d’Ulm et depuis un an maintenant j'y suis un cursus de physique, donc c'est de la physique théorique assez générale qui reprend les concepts les plus généraux et ensuite c'est des cours à la carte."
+  },
+  {
+    "theme": "Domaines d'intérêt en physique",
+    "sous_theme": "Spécialisations et orientation future",
+    "verbatim": "Moi je suis plutôt intéressé par la physique des particules et la mécanique quantique on v"
+  },
+  {
+    "theme": "Organisation des études",
+    "sous_theme": "Flexibilité du programme d'études",
+    "verbatim": "c'est de la physique théorique assez générale qui reprend les concepts les plus généraux et ensuite c'est des cours à la carte"
+  },
+  {
+    "theme": "I need to ensure each block has a theme,",
+    "sous_theme": "Sous-thème: Optimisme et facilité d'accès",
+    "verbatim": "Verbatim: \"formidable outil [...] simplifier l'accès à toutes les"
+  },
+  {
+    "theme": "Impact environnemental de l'IA",
+    "sous_theme": "Consommation énergétique et réchauffement climatique",
+    "verbatim": "chatGPT en fait c'est des énormes serveurs avec des gros calculateurs qui sont capables de renvoyer des des réponses extrêmement rapidement mais il consomme énormément d'énergie et bon bientôt il va… il faudra mieux aller voir ailleurs et chercher des solutions alternatives parce que vu l'engouement pour ça, dans quelques années ça va être une des principales causes de réchauffement climatique par exemple ou de destruction de l'environnement…"
+  },
+  {
+    "theme": "Utilisation des outils IA pour l'accès à l'information",
+    "sous_theme": "Simplification et accessibilité de l'information",
+    "verbatim": "informations qui sont devant nous parce qu'on est aujourd'hui dans un monde où il y a énormément d'informations mais l'information elle peut être caché et difficile d'accès. Avec chatGPT, elle nous est donnée directement sous une forme simplifiée et rédigée."
+  },
+  {
+    "theme": "Conscience technologique et appropriation personnelle",
+    "sous_theme": "Découverte liée aux événements médiatiques",
+    "verbatim": "chatGPT moi je l'ai découvert au moment de l'engouement on va dire hm… C'est-à-dire vers novembre 2023 par là ; quand il y a eu cette… En fait chatGPT 3 quand le GPT-3 est sorti c’est là que je me suis mis dessus."
+  },
+  {
+    "theme": "Accessibilité et facilité d'utilisation",
+    "sous_theme": "L'interface intuitive comme facteur d'adoption",
+    "verbatim": "le moment d'utilisation c'est quand il y a eu une interface facile d'utilisation sur le site d'OpenAI."
+  },
+  {
+    "theme": "Fréquence et contextes d'utilisation",
+    "sous_theme": "Utilisation quotidienne dans le cadre scolaire",
+    "verbatim": "dans le cadre de mes études j'utilise chatGPT très régulièrement on peut même dire quotidiennement c'est-à-dire qu'en fait et à chaque fois que je vais avoir un doute sur quelque chose que je vais avoir une envie de reformuler quelque chose ou d'aller plus loin sur un domaine ou d'essayer de comprendre un phénomène ou quelque chose qu'on m'a expliqué en cours qui était un petit peu vague pour moi ou alors que j'ai pas bien retranscrit je vais l’utiliser directement."
+  },
+  {
+    "theme": "Changement des pratiques d'information",
+    "sous_theme": "Remplacement des méthodes traditionnelles de recherche",
+    "verbatim": "C'est ce qui est intéressant c"
+  },
+  {
+    "theme": "That's three themes. I think that's sufficient. Let me ensure each is distinct",
+    "sous_theme": "Sous-thème: Recours occasionnel en cas de blocage.",
+    "verbatim": "Verbatim: \"parfois oui effectivement il y a des fois où on est bloqué sur un exercice c'est un pe"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "theme": "Formation professionnelle et pratique enseignante",
+    "sous_theme": "Contexte de stage en formation",
+    "verbatim": "à la HEP on est en stage en première année et là je suis en stage A donc je suis accompagné d'une formatrice et je donne en moyenne quatre périodes par semaine de cours"
+  },
+  {
+    "theme": "Préparation pédagogique et méthodologie",
+    "sous_theme": "Planification et conception de cours",
+    "verbatim": "on prépare nos cours, on prépare nos exercices, on prépare nos thématiques, etc"
+  },
+  {
+    "theme": "Utilisation d'outils technologiques",
+    "sous_theme": "Recours à un assistant virtuel pour l'enseignement",
+    "verbatim": "les conversations que j'ai avec Chatchepété, c'est pour m'aider, une fois que ma planification est faite, que je sais la thématique que je vai"
+  },
+  {
+    "theme": "Pédagogie et gestion des apprentissages",
+    "sous_theme": "Conception d'exercices pour les élèves",
+    "verbatim": "Je lui demande de faire des exercices en tirant en bas pour laisser la place pour les réponses."
+  },
+  {
+    "theme": "Contrôle et ajustement pédagogique",
+    "sous_theme": "Validation et adaptation des contenus",
+    "verbatim": "Après je contrôle tout. Pour vérifier qu'il a bien fait les exercices que je voulais, dans l'ordre que je voulais. Et s'il y a des exercices qui ne vont pas trop, qui sont trop compliqués, je les enlève."
+  },
+  {
+    "theme": "Distinction entre pratique enseignante et recherche",
+    "sous_theme": "Séparation entre enseignement et mémoire de fin d'études",
+    "verbatim": "Parce que c'est en lien avec ton mémoire spécifiquement ? Alors pas spécifiquement avec mon mémoire. Je suis en master, du"
+  },
+  {
+    "theme": "Expérience académique",
+    "sous_theme": "Préférence pour les cours de cinéma",
+    "verbatim": "C'était vraiment ce que j'ai préféré faire à l'uni. Donc ça s'est très bien passé."
+  },
+  {
+    "theme": "Difficultés et facilités par discipline",
+    "sous_theme": "Contraste entre français et cinéma",
+    "verbatim": "Le français, tu cravaches un peu plus. Mais cinéma, c'est très intéressant."
+  },
+  {
+    "theme": "Perception évolutive de l'université",
+    "sous_theme": "Appréhension progressive de l'environnement universitaire",
+    "verbatim": "En fait, t'apprends à apprécier le cours... Enfin, l'uni, au fur et à mesure."
+  },
+  {
+    "theme": "So each block is a theme with one sub-theme and one verbatim. So I need to group the quotes into 3-5 such blocks",
+    "sous_theme": "[nom du sous-thème]",
+    "verbatim": "Phrase complète..."
+  }
+]

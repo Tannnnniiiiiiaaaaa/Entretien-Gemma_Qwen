@@ -1,0 +1,87 @@
+[
+  {
+    "theme": "Intégration des outils numériques dans les pratiques académiques",
+    "sous_theme": "Perception et utilisation de ChatGPT",
+    "verbatim": "Cette enquête vise à explorer comment les étudiants perçoivent et intègrent ChatGPT dans leur travail quotidien."
+  },
+  {
+    "theme": "Impact sur les stratégies d'apprentissage",
+    "sous_theme": "Évolution des méthodes d'apprentissage",
+    "verbatim": "nous chercherons à mieux comprendre l'impact de cet outil sur les stratégies d'apprentissage, le développement des compétences métacognitives, la capacité d'auto-évaluation..."
+  },
+  {
+    "theme": "Dynamiques sociales et collaboration",
+    "sous_theme": "Influence des interactions sociales sur les pratiques",
+    "verbatim": "...et les dynamiques sociales qui influencent le travail des étudiants."
+  },
+  {
+    "theme": "Éthique et réflexion personnelle",
+    "sous_theme": "Engagement avec les enjeux éthiques",
+    "verbatim": "L'enquêté a un avis nuancé mais tranché sur le sujet. Il répond avec plaisir à toutes les questions, avec une préférence sur le sujet de l'éthique."
+  },
+  {
+    "theme": "Parcours académique et transitions",
+    "sous_theme": "Changement d'institution et impact personnel",
+    "verbatim": "j'ai fait échec déf et du coup, j'ai passé à l'UNIL en lettres, ce qui personnellement a été un des meilleurs choix de ma vie, étant donné que je me suis vraiment épanoui."
+  },
+  {
+    "theme": "Approche des études et engagement",
+    "sous_theme": "Stratégies d'apprentissage et auto-évaluation",
+    "verbatim": "je suis un élève, un étudiant studieux relativement. Bien que des fois j'ai tendance à ne pas faire toutes les lectures tout le temps. Des fois je me débrouillais en lisant 2-3 phrases en début de cours pour redonner l'impression que j'avais tout lu, mais c'était juste pour la participation."
+  },
+  {
+    "theme": "Aspirations professionnelles et évolution",
+    "sous_theme": "Déviation par rapport aux attentes initiales",
+    "verbatim": "Je pensais juste faire l'uni en lettres pour ensuite faire l'HEP et devenir enseignant en secondaire 2. Mais pour finir, j'ai eu cette occasion de faire un doctorat au sein de la section de XYZ en linguistique. Et du coup, j'ai saisi et me voilà."
+  },
+  {
+    "theme": "Auto-évaluation et perception de soi",
+    "sous_theme": "Contradictions dans l'auto-définition",
+    "verbatim": "je dirais studieux, mais peut-être un peu paresseux de temps en temps."
+  },
+  {
+    "theme": "Relation à la performance académique",
+    "sous_theme": "Perfectionnisme et pression sur les notes",
+    "verbatim": "je suis stricte avec moi-même, je dirais, plus que perfectionniste. Et autrement, je dirais pas forcément que je suis perfectionniste, même si depuis… J'ai aussi tendance à me perdre dans des questions de détails."
+  },
+  {
+    "theme": "Réflexion sur l'intelligence artificielle",
+    "sous_theme": "Inquiétudes éthiques et sociétales",
+    "verbatim": "C'est un outil utile, potentiellement, qui a encore beaucoup de lacunes malgré tout, qui nous oblige à se poser des questions par rapport à son utilisation éthique, et qui représente potentiellement aussi un certain danger pour la société."
+  },
+  {
+    "theme": "Dépendance aux outils d'IA",
+    "sous_theme": "Recours excessif à ChatGPT et impact sur l'apprentissage",
+    "verbatim": "qui peut-être maintenant ont la vie un peu trop facile avec ChatGPT, et qui peut-être lui font une confiance aveugle aussi, et donc qui peut-être des fois vont juste recopier des choses qui sont pas tout à fait justes."
+  },
+  {
+    "theme": "Perte de réflexion critique",
+    "sous_theme": "Questionnement sur la diminution de l'esprit critique",
+    "verbatim": "Mais quand ils ont pris l'habitude de tout le temps se fier à ChatGPT, est-ce qu'il reste encore beaucoup de réflexion critique là derrière ?"
+  },
+  {
+    "theme": "Impacts sociétaux",
+    "sous_theme": "Menace pour la démocratie",
+    "verbatim": "est-ce pas potentiellement un risque aussi pour une société démocratique quand peut-être potentiellement une bonne partie de la population n'a pas vraiment l'habitude d'utiliser son esprit critique."
+  },
+  {
+    "theme": "Compréhension technique de l'IA",
+    "sous_theme": "Connaissance limitée mais自觉e de l'interlocuteur",
+    "verbatim": "je pense que j'ai quand même une compréhension vague, mais assez juste quand même de comment ça fonctionne. Sauf erreur, c'est un mod"
+  },
+  {
+    "theme": "Fonctionnement technique des modèles IA",
+    "sous_theme": "Mécanisme probabiliste et apprentissage à partir de données massives",
+    "verbatim": "c'est entre guillemets un peu comme si le modèle calculait la réponse la plus probable parmi des millions et des millions, donc en se basant sur un corpus gigantesque qui lui est donné constamment par ses entreprises, par ChatGPT par exemple"
+  },
+  {
+    "theme": "Utilisation pratique et pédagogique",
+    "sous_theme": "Aide à la conception pédagogique",
+    "verbatim": "moi qui étais actif, qui suis encore actif en fait dans l'enseignement, ça m'a quand même aidé souvent à concevoir des exercices pour des étudiants, des élèves"
+  },
+  {
+    "theme": "Impacts sociétaux et éthiques",
+    "sous_theme": "Inquiétudes face à l'irresponsabilité sociétale vis-à-vis des technologies",
+    "verbatim": "c'est vrai que je ne peux pas m'empêcher de penser qu'il y a un côté un peu plus sombre et qu'on est encore… Je pense qu'avec toute technologie nouvelle, en tant que société, on n'est pas vraiment préparé à tous les changements que ça amène"
+  }
+]

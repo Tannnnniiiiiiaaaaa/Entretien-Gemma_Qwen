@@ -1,32 +1,57 @@
 [
   {
-    "theme": "Thème 4: Structure of Studies and Work",
-    "sous_theme": "Sous-thème: Alternance as Part of Education",
-    "verbatim": "Verbatim: \"une année en initial et les deux dernières années en tant que business développeur dans une start-up...\" and \"Euh alternance cursus"
+    "theme": "Profiling the interviewee",
+    "sous_theme": "Formation et expérience professionnelle",
+    "verbatim": "cursus de marketing digital et data et à côté comme je l'ai dit au début je suis je suis en alternance chez Coinas en tant que customer success manager et ses assistant"
   },
   {
-    "theme": "Theme 3: Accessibilité de la connaissance via l'IA",
-    "sous_theme": "Sous-thème: Disponibilité democratique de l'information",
-    "verbatim": "Verbatim: \"c'est vraiment c'est une base de connaissance qui est"
+    "theme": "Compréhension technique de l'IA",
+    "sous_theme": "Fonctionnement et définition de l'IA/ChatGPT",
+    "verbatim": "chat GPT l'IA en général je la définirai comme un algorithme, un LLM du coup large language language model une sorte d'algorithme qui regroupe une grande base de connaissance et grâce à cette base de connaissance, on peut faire des requêtes directement via cette base de connaissance et d'où le nom intelligence artificielle, on obtient des réponses euh qui peuvent correspondre, qui peuvent être similaires à de l'intelligence humaine, sauf que c'est des algorithmes qui qui sont derrière cela."
   },
   {
-    "theme": "Impact social et professionnel de l'IA",
-    "sous_theme": "Diffusion et curiosité collective autour de ChatGPT",
-    "verbatim": "Tout le monde parlait de cela. Euh je suis parti voir ce que c'était et à côté de ça quand je suis parti voir que tous mes tous mes collèges aussi étaient partis voir de leur côté qu'est-ce que c'était. Et durant la pause de midi à 14h, on en parlait déjà."
+    "theme": "Perception et impact perçu de l'IA",
+    "sous_theme": "Attributs associés à ChatGPT",
+    "verbatim": "efficacité, rapidité, euh effet waouh euh Effet W dans le sens où surtout au début de chat GPT, je pense qu'on en reviendra après. Bah c'est toujours c'est quelque chose qui a surpris qui a surpris tout le monde. Euh mais en effet maintenant ce qui me vient à l'esprit c'est vraiment c'est une base de connaissance qui est disponible à tout à chacun de manière de manière très simple et très efficace."
   },
   {
-    "theme": "Utilisation quotidienne des outils technologiques",
-    "sous_theme": "Dépendance fonctionnelle à ChatGPT",
-    "verbatim": "je l'utilise dans mon quotidien. Il me semble qu'il y avait une deuxième question peut-être ou c'était Euh juste à quelle fréquence ? [...] Franchement, de manière de manière quotidienne."
+    "theme": "Emergence d'outils IA et impact social",
+    "sous_theme": "Intérêt collectif et discussion au travail",
+    "verbatim": "Tout le monde parlait de cela. Euh je suis parti voir ce que c'était et à côté de ça quand je suis parti voir que tous mes tous mes collègues aussi étaient partis voir de leur côté qu'est-ce que c'était. Et durant la pause de midi à 14h, on en parlait déjà. On parlait déjà de cette nouvelle intelligence artificielle qui permettait de répliquer l'intelligence humaine direct."
   },
   {
-    "theme": "Positionnement personnel face à la technologie",
-    "sous_theme": "Identification comme \"technophile\"",
-    "verbatim": "Alors moi, je me décrirai comme un peu un technophile. J'aime beaucoup tout ce qui est tout"
+    "theme": "Intégration des technologies dans l'enseignement",
+    "sous_theme": "Utilisation de technologies liées aux données et au marketing digital",
+    "verbatim": "ce qui est attaché et dans ma filière en tout cas dans mon université Ouais. Étant donné que je suis un curseur data, c'est un peu c'est un peu tech. Et même dans le marketing digital, on utilise beaucoup ces technologies-là, que ce soit pour la réalisation de projets notamment en présentation ou euh ou euh des projets de groupe à faire."
   },
   {
-    "theme": "Perception des capacités technologiques",
-    "sous_theme": "Étonnement face aux performances de l'IA",
-    "verbatim": "c'était assez impressionnant. [...] Comment vient tes algorithmes ? Du coup, c'était assez impressionnant."
+    "theme": "Utilisation d'outils IA dans les activités académiques",
+    "sous_theme": "Rôle de ChatGPT pour la recherche et la rédaction",
+    "verbatim": "on utilise vraiment cette technologie pour tout euh pour tous les projets qu'on entame et pour tout euh pour toutes les tâches qu'on entreprend. [...] pour de la recherche notamment sur nos projets de mémoire recherche ou ou euh inspiration quand on n'a pas d'inspiration sur des présentations par exemple ou bien sur tout ce qui est rédaction de pitch, rédaction de euh ça peut être des rédactions d'offre commercial ou euh ou des multitudes de choses."
+  },
+  {
+    "theme": "Exemples concrets d'applications pratiques",
+    "sous_theme": "Utilisation de Scholar GPT pour la recherche académique",
+    "verbatim": "il y a une extension qui s'appelle Scholar GPT qui permettait de découvrir des recherches scientifiques liées à notre problématique et à n"
+  },
+  {
+    "theme": "Dépendance aux outils technologiques",
+    "sous_theme": "Recours aux outils pour stimuler la créativité et l'organisation",
+    "verbatim": "on utilise vraiment cette technologie pour tout"
+  },
+  {
+    "theme": "Gestion du temps et productivité",
+    "sous_theme": "Gains de temps significatifs",
+    "verbatim": "ça l'a modifié dans le sens où c'est un gain de temps considérable et j'ai des réponses qui sont beaucoup plus précises et je peux faire des tâches à côté qui sont qui sont plus chronophages ou bien qui a qui demandent plus de compétences ou je dirais de ressources intellectuelles de mon côté et faire et chat GPT en gros fait 80 % du travail presque."
+  },
+  {
+    "theme": "Dépendance et effets sur les habitudes de travail",
+    "sous_theme": "Risque de perte d'autonomie",
+    "verbatim": "ça apporte une certaine certaines fénéantises dans le sens où euh on peut on peut faire un prompt et directement avoir des réponses directes de chat GPT. Du coup, on devient un peu fainéant mais commence à modifier concrètement dans ma façon de travailler, c'est que je pense directement à comment je vais utiliser de chat GPT euh lors de mon travail plutôt que de faire des recherches de mon côté qui me pourraient prendre beaucoup plus de temps."
+  },
+  {
+    "theme": "Équilibre entre efficacité et qualité",
+    "sous_theme": "Optimisation des ressources cognitives",
+    "verbatim": "j'ai des réponses qui sont beaucoup plus précises et je peux faire des tâches à côté qui sont qui sont plus chronophages ou bien qui a qui demandent plus de compétences ou je dirais de ressources intellectuelles de mon côté."
   }
 ]

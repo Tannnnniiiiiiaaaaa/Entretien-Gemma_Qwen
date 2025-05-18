@@ -1,0 +1,67 @@
+[
+  {
+    "theme": "Consentement et éthique",
+    "sous_theme": "Validation de l'enregistrement",
+    "verbatim": "Oui aucun problème pour moi."
+  },
+  {
+    "theme": "Cadre de l'étude",
+    "sous_theme": "Présentation du projet de recherche",
+    "verbatim": "on travaille sur un projet de recherche donc sur les usages et les pratiques de ChatGPT et des intelligences artificielles par les étudiants en sociologie"
+  },
+  {
+    "theme": "Anonymat et confidentialité",
+    "sous_theme": "Garantie de confidentialité des données",
+    "verbatim": "Et du coup je te rassure à nouveau sur le fait que ton nom et ton prénom seront anonymisés en tout cas ils seront utilisés vraiment que pour cet entretien."
+  },
+  {
+    "theme": "Dynamique de l'entretien",
+    "sous_theme": "Engagement de la participante",
+    "verbatim": "OK. Euh non moi, ça on peut commencer."
+  },
+  {
+    "theme": "Parcours académique",
+    "sous_theme": "Formation préparatoire et intégration à l'ENS",
+    "verbatim": "j’ai été au lycée dans une moyenne ville de la France [...] j’ai intégré l’ENS après mes 2 ans prépa."
+  },
+  {
+    "theme": "Domaines d'études",
+    "sous_theme": "Interdisciplinarité économie et sociologie",
+    "verbatim": "j'ai fait une L3 à l’ENS qui était économie et sociologie [...] Master économie organisation et société toujours à l'ENS."
+  },
+  {
+    "theme": "Perception des IA",
+    "sous_theme": "Utilité pratique des outils IA",
+    "verbatim": "Pour moi une intelligence artificielle c'est un outil avant tout, qui permet de nous aider dans plein de choses, donc le travail scolaire, universitaire, professionnel, mais aussi des choses de la vie quotidienne."
+  },
+  {
+    "theme": "That's three themes with two sub-themes for the second one. But the user wants each sub-theme with a verbatim. Wait, the user's example shows each theme has one sub-theme and one verbatim. Wait, looking back at the instructions: For each theme, give a sub-theme and a verbatim. So each theme has one sub-theme and one verbatim. So maybe split the comparison into two themes? Or perhaps the economic aspect is part of the same theme but as a separate sub-theme. Wait the user's example shows:",
+    "sous_theme": "Sous-thème: Début de l'utilisation en L3.",
+    "verbatim": "Verbatim: The first quote."
+  },
+  {
+    "theme": "Sub-themes: Création de contenu vs. recherche tradition",
+    "sous_theme": "[sous-thème]",
+    "verbatim": "Verbatim: The first part where she says she doesn't know how to define it."
+  },
+  {
+    "theme": "Utilisation et efficacité de l'outil",
+    "sous_theme": "Comparaison avec Google",
+    "verbatim": "comme Google, donc je lui posais des questions et du coup c'est sur que quand on pose une question sur un auteur, un article il répond beaucoup plus facilement que Google. Google il y a vraiment… il faut que ce soit nous qui allions chercher l'info alors que là il nous l'a donne direct."
+  },
+  {
+    "theme": "Utilisation et efficacité de l'outil",
+    "sous_theme": "Intégration dans les activités académiques",
+    "verbatim": "après, au second semestre, j'ai commencé vraiment à l'utiliser pour rédiger des choses, et je pense qu'aujourd'hui, c'est encore un peu mon activité principale."
+  },
+  {
+    "theme": "Découverte et perception initiale de l'outil",
+    "sous_theme": "Influence sociale et médias",
+    "verbatim": "Ben je pense que tout le monde en parlait, même ma mère elle m'en avait parlé parce qu’elle l'avait eu aux infos je crois et je me souviens qu'à l'époque, donc quand j’étais en prépa, j'avais des amis qui l'utilisaient..."
+  },
+  {
+    "theme": "Découverte et perception initiale de l'outil",
+    "sous_theme": "Préjugés initiaux et hésitations",
+    "verbatim": "je'avais une vision un peu"
+  }
+]

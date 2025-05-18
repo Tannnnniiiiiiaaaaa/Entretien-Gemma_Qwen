@@ -1,0 +1,47 @@
+[
+  {
+    "theme": "Parcours scolaire et orientation académique",
+    "sous_theme": "Choix d'établissement lié à des besoins personnels",
+    "verbatim": "j'ai demandé d’être placer sur Lyon parce que mon autisme ne me permettait pas de supporter les trajets ou même d'aller vivre là-bas en termes d'autonomie."
+  },
+  {
+    "theme": "Composition familiale et relations familiales",
+    "sous_theme": "Conflit familial et absence de communication",
+    "verbatim": "mon père je n’en parlerai pas parce que cela fait 7 ans que je ne lui parle plus suite à diverse affaire, qui moi, me regarde."
+  },
+  {
+    "theme": "Contexte personnel et identité",
+    "sous_theme": "Identification par un diagnostic médical",
+    "verbatim": "mon autisme ne me permettait pas de supporter les trajets ou même d'aller vivre là-bas en termes d'autonomie."
+  },
+  {
+    "theme": "Informations biographiques",
+    "sous_theme": "Âge et étapes de la vie",
+    "verbatim": "j’ai 18 ans. Je vais sur mes 19. J'ai intégré à SciencePo"
+  },
+  {
+    "theme": "Dynamique de l'entretien",
+    "sous_theme": "Gestion temporelle et anticipation",
+    "verbatim": "De toute façon j’ai jusqu’à 17h50 parce que la BU ferme. Donc à mon avis on aura fini avant."
+  },
+  {
+    "theme": "Wait, but the user wants each theme to have one sub-theme and",
+    "sous_theme": "Sous-thème: Transition entre années générales et spécialisées",
+    "verbatim": "Verbatim: \"Les 3 premières années sont vraiment générales... en 4e année tu commences à t’orienter..."
+  },
+  {
+    "theme": "Perception des intelligences artificielles",
+    "sous_theme": "Distinction entre programmes traditionnels et IA générative",
+    "verbatim": "elle mission, telle fonction, telle comportement qui aura été créé par un développeur. Puis après, tu auras l’IA, comme on l'entend entre guillemets actuellement, enfin depuis 2022-2023, savoir lier à générative qui, pour moi, consiste en un programme pas forcément intelligent, mais qui apprendra selon les interactions qu'il aura avec... son programme mais aussi avec les autres utilisateurs par exemple, plus tu vas discuter avec l’IA générative, plus à mon sens elle apprendra et elle se perfectionnera en un sens."
+  },
+  {
+    "theme": "Évolution des usages et rôle social des IA",
+    "sous_theme": "Passage du statut de curiosité ludique à un outil significatif",
+    "verbatim": "au début, ChatGPT, c'était juste une sorte... enfin pas d'assistant mais de tu lui poses une question... elle te répond de façon plus ou moins intelligente. Actuellement, enfin, après, moi, je ne sais pas, tu es surement mieux que moi pour en parler mais les IAs génératives à mon sens ont pris une place qui est assez conséqu"
+  },
+  {
+    "theme": "Contexte d'apprentissage et découverte personnelle",
+    "sous_theme": "Introduction à travers l'expérience sociale et l'expérimentation ludique",
+    "verbatim": "je n'avais jamais entendu parler avant et je me souviens, quand j'étais en première, un des amis a parlé au modeste, c'est un truc qui est complètement nouveau, tu peux lui parler, tu peux faire des choses etc. J’avais commencé à m'en servir entre guillemets pour la blague en mode « ah c’est drôle, tu lui parles, il te répond, de façon plus ou moins logique... plus ou moins cohérentes, plus"
+  }
+]

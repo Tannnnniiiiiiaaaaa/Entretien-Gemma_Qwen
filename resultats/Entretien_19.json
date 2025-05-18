@@ -1,0 +1,67 @@
+[
+  {
+    "theme": "Objectifs de la recherche",
+    "sous_theme": "Définition de l'étude sur l'impact des IA",
+    "verbatim": "on essaie de voir l'impact qu'ont en réalité les IA génératives de textes en général, mais surtout Chat GPT, sur le travail et l'apprentissage des étudiants et étudiantes dans les milieux académiques."
+  },
+  {
+    "theme": "Consentement et cadre éthique",
+    "sous_theme": "Confidentialité des réponses",
+    "verbatim": "Et tout est confidentiel sur tes réponses."
+  },
+  {
+    "theme": "Dynamique de l'entretien",
+    "sous_theme": "Validation de la participation",
+    "verbatim": "Très bien."
+  },
+  {
+    "theme": "Communication du sujet",
+    "sous_theme": "Clarification des attentes",
+    "verbatim": "je vais te présenter un petit peu pour que tu comprennes un peu ce qu'on fait."
+  },
+  {
+    "theme": "Interaction entre interlocuteurs",
+    "sous_theme": "Confirmation de compréhension",
+    "verbatim": "Oui. OK."
+  },
+  {
+    "theme": "Parcours académique",
+    "sous_theme": "Formation initiale et diplômes",
+    "verbatim": "j'ai réalisé mon bachelor à l'UNIL en lettres, en histoire et histoire de l'art, et mon master en études européennes à l'université de Genève."
+  },
+  {
+    "theme": "Recherche en cours",
+    "sous_theme": "Thème de la thèse et acteurs étudiés",
+    "verbatim": "c'est une thèse qui porte sur les violences masculines intrafamiliales, et l'objectif est d'observer l'appropriation de ces thématiques par l'ONU notamment, et les féministes de la seconde vague, enfin de la deuxième vague."
+  },
+  {
+    "theme": "Perception des outils technologiques",
+    "sous_theme": "Utilité perçue des IA comme ChatGPT",
+    "verbatim": "je pense que c'est, en tout cas ChatGPT, c'est un outil, un outil qui peut servir à beaucoup de choses, mais je dirais que c'"
+  },
+  {
+    "theme": "Contexte institutionnel",
+    "sous_theme": "Établissements universitaires fréquentés",
+    "verbatim": "j'entreprends cette année une thèse en histoire contemporaine à l'université Paris 1, Panthéon-Sorbonne."
+  },
+  {
+    "theme": "Nature de l'interaction",
+    "sous_theme": "Conversation logique et synthétique",
+    "verbatim": "je pense que c'est surtout une conversation qui est un peu, et je pense à un robot en fait, de manière un peu synthétique."
+  },
+  {
+    "theme": "Perception de l'interlocuteur",
+    "sous_theme": "Interaction avec un ordinateur",
+    "verbatim": "ça reste une conversation où il y a un interlocuteur qui est finalement mon ordinateur."
+  },
+  {
+    "theme": "Finalité de l'interaction",
+    "sous_theme": "Objectif direct et utilitaire",
+    "verbatim": "c'est une conversation qui a un objectif finalement."
+  },
+  {
+    "theme": "The user wants for each theme, a sub-theme, and a verbatim. So each \"block\" is a theme with a sub-theme and a quote. The user's example probably expects to have multiple themes, each with their own sub-themes. But the user's instruction says \"3 à 5 blocs maximum\". So maybe group related sub-themes under a theme, but each theme can have multiple sub",
+    "sous_theme": "[nom du sous-thème]",
+    "verbatim": "Phrase..."
+  }
+]

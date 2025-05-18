@@ -1,0 +1,47 @@
+[
+  {
+    "theme": "Thème: Confidentialité des données",
+    "sous_theme": "Sous-thème: Anonymisation et utilisation restreinte des données",
+    "verbatim": "Verbatim: \"Les réponses, elles seront confidentielles, donc elles ne seront pas partagées sur une autre plateforme"
+  },
+  {
+    "theme": "Contexte de l'entretien et cadre de confidentialité",
+    "sous_theme": "Assurances sur l'anonymat et la liberté de réponse",
+    "verbatim": "il n'y a pas de bonne ni de mauvaise réponse. S'il y a des questions auxquelles tu n'as pas vraiment de réponse à donner ou que tu n'as pas envie de répondre, tu as le droit. Et oui, du coup, toutes les informations sont anonymes."
+  },
+  {
+    "theme": "Parcours académique de l'étudiant",
+    "sous_theme": "Structure et détails du cursus universitaire",
+    "verbatim": "j'ai fait une matu à Nyon et en option en maths"
+  },
+  {
+    "theme": "Second block:",
+    "sous_theme": "Comparaison avec les sources académiques existantes",
+    "verbatim": "tu vas faire tes recherches de ton côté, ou tu vas comparer avec ton cours, ou tu cherches d'autres sources."
+  },
+  {
+    "theme": "Third block:",
+    "sous_theme": "Utilisation de moteurs de recherche pour contextualiser les informations",
+    "verbatim": "Google c'est déjà une bonne source. Enfin, c'est pas une source en soi, mais c'est pour chercher dans le même thème que le thème de la question qui a été posée à Chat GPT."
+  },
+  {
+    "theme": "Fourth block could be about consulting experts:",
+    "sous_theme": "Limites dans l'accès à des ressources spécialisées",
+    "verbatim": "Ce qui est un peu difficile quand c'est des sujets très spécifiques et tu trouves un peu rien à part des rapports académiques de 500 pages et t'as pas le temps de tout lire."
+  },
+  {
+    "theme": "Utilisation critique des sources en ligne",
+    "sous_theme": "Skepticisme face aux informations trouvées sur YouTube",
+    "verbatim": "i envie de dire, sur YouTube, il y a certaines personnes qui expliquent ces choses dans des vidéos, mais de nouveau, c'est pas... C'est toujours à prendre avec des pincettes, mais n'importe quel type."
+  },
+  {
+    "theme": "Stratégies de vérification selon l'enjeu",
+    "sous_theme": "Priorisation de la vérification en fonction de l'importance du choix",
+    "verbatim": "si je demande... À Chat GPT et que, en fonction de la réponse, je vais faire un choix décisif sur un projet, je vais prendre du temps à chercher. Et voir, par réflexe, si je sais en moi que c'est un choix décisif, j’vais pas demander à Chat GPT, mais je vais chercher d'abord."
+  },
+  {
+    "theme": "Confiance différentielle envers les outils IA",
+    "sous_theme": "Dépendance contextuelle à l'IA (ex. programmation vs. analyse d'actualité)",
+    "verbatim": "pour des questions de prog, je fais plus confiance à l'IA que si c'est pour... Je sais pas... Si je lui demande de faire une analyse de l'actualité"
+  }
+]

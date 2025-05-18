@@ -1,0 +1,77 @@
+[
+  {
+    "theme": "I need to make sure each theme is general, the sub-themes specific",
+    "sous_theme": "Sous-thème: Accord pour l'enregistrement",
+    "verbatim": "Verbatim: \"Oui."
+  },
+  {
+    "theme": "Contexte éducatif et professionnel",
+    "sous_theme": "Origine en HES versus universités",
+    "verbatim": "Tu es la seule personne issue d'une HES à répondre à cette enquête. Toutes les autres personnes viennent d'universités..."
+  },
+  {
+    "theme": "Perception de ChatGPT et de l'IA",
+    "sous_theme": "Vision utilitaire de l'outil",
+    "verbatim": "Pour moi, c'est vraiment un outil qui est là pour aider et donner un coup de main. Particulièrement ChatGPT, qui, selon mes représentations, est surtout là pour m'aider à trouver des idées ou à rédiger."
+  },
+  {
+    "theme": "Émerveillement technologique",
+    "sous_theme": "Surprise face à la rapidité de développement",
+    "verbatim": "Jamais je n'avais imaginé qu'un outil comme ça pourrait m'aider. Pour moi, ce genre d'outil, ça devait arriver, je sais pas... dans plusieurs années."
+  },
+  {
+    "theme": "Expérience préalable avec des publics vulnérables",
+    "sous_theme": "Engagement social avant l'université",
+    "verbatim": "Ensuite, j'ai travaillé une"
+  },
+  {
+    "theme": "Accessibilité et gratuité technologique",
+    "sous_theme": "Surprise face à l'accès universel gratuit",
+    "verbatim": "Pour moi, sa gratuité m'a surpris. Je me disais : 'Comment est-ce qu'un si grand nombre de personnes peut avoir accès à un outil aussi puissant gratuitement, alors que c'est une technologie incroyable ?'"
+  },
+  {
+    "theme": "Évolution et potentiel technologique",
+    "sous_theme": "Améliorations continues via des fonctionnalités payantes",
+    "verbatim": "J'ai pris l'abonnement Pro depuis un mois. Ça me permet d'envoyer des documents, ce que je ne pouvais pas faire avant. Maintenant, il peut analyser un document en quelques secondes et proposer des idées."
+  },
+  {
+    "theme": "Limites de l'IA par rapport à l'humain",
+    "sous_theme": "Incompatibilité avec l'émotionnel et l'empathie",
+    "verbatim": "Pour certaines choses, ChatGPT peut dépasser l'humain. Mais il y aura toujours des domaines où il manque des éléments, comme l'empathie ou l'émotionnel. Par exemple, en travail social, on a une fibre humaine, une expérience, qu'il n'a pas encore."
+  },
+  {
+    "theme": "Impact des IA sur les métiers et formations",
+    "sous_theme": "Menace sur les métiers techniques ou procéduraux",
+    "verbatim": "Pour des domaines comme la gestion, l'économie ou la comptabilité, ChatGPT est très performant. Je pense que certains métiers ou formations pourraient être menacés."
+  },
+  {
+    "theme": "Limites des IA par rapport aux compétences humaines",
+    "sous_theme": "Supériorité humaine dans l'émotionnel et l'interaction",
+    "verbatim": "L'humain garde toujours des compétences émotionnelles et une expertise pratique que ChatGPT ne peut pas remplacer, du moins pour le moment."
+  },
+  {
+    "theme": "Utilité des IA dans l'apprentissage",
+    "sous_theme": "Remplacement partiel de l'enseignement traditionnel",
+    "verbatim": "Pour l'enseignement, ChatGPT prend déjà beaucoup de place. On peut apprendre énormément en restant chez soi, juste avec un téléphone."
+  },
+  {
+    "theme": "Expérience personnelle et usages concrets",
+    "sous_theme": "Utilisation de ChatGPT en formation professionnelle",
+    "verbatim": "Mon copain, qui est à l'HEG, utilise ChatGPT depuis le début de sa formation. Il trouve que ChatGPT explique mieux certains concepts que ses professeurs."
+  },
+  {
+    "theme": "Utilisation de l'IA dans les études",
+    "sous_theme": "Contexte d'adoption de ChatGPT",
+    "verbatim": "En première année, ça aurait été super utile, mais je ne m'intéressais pas vraiment, car la technologie de base ne m'attirait pas. En deuxième année, des collègues ont commencé à m’en parler : 'C’est un outil magnifique, il faut l’utiliser, c’est essentiel.' Et depuis, je l’utilise minimum une fois par semaine pour mes cours."
+  },
+  {
+    "theme": "Rôles et usages pratiques de ChatGPT",
+    "sous_theme": "Fonctions académiques spécifiques",
+    "verbatim": "Je lui fais résumer un texte quand je n’ai pas envie de lire des pages entières. Je m’en sers aussi pour générer des idées, notamment sur des problématiques ou des recherches liées à des contextes précis, comme un club de foot. Il me propose des pistes et des idées, ce que je trouve super utile. Enfin, je l’utilise pour corriger mon français, surtout la grammaire et la syntaxe, car ce n’est pas mon point fort."
+  },
+  {
+    "theme": "Positionnement technologique et formation académique",
+    "sous_theme": "Contradiction entre attirance personnelle et utilité perçue",
+    "verbatim": "Tu disais tout à l’heure que tu n’étais pas très 'technologie'. Peux-tu faire un lien entre cela et ta filière en travail social ? Y a-t-il une position claire sur l’utilisation de l’intelligence artificielle dans ta formation ?"
+  }
+]

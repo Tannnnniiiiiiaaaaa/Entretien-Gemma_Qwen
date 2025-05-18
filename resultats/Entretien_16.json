@@ -1,0 +1,52 @@
+[
+  {
+    "theme": "Thème: Consentement et participation",
+    "sous_theme": "Sous-thème: Consentement explicite",
+    "verbatim": "Verbatim: \"Oui. ("
+  },
+  {
+    "theme": "Perception et compréhension des technologies",
+    "sous_theme": "Incertitude face à l'acronyme et au fonctionnement",
+    "verbatim": "Putain (rires), c'est le moment où je sais pas ce que ça veut dire, « GPT »."
+  },
+  {
+    "theme": "Th",
+    "sous_theme": "Analyse réflexive de la part de l'interlocuteur",
+    "verbatim": "ce que t'es en train de me demander, c'est déjà représentatif de la manière dont tu le perçois en soi."
+  },
+  {
+    "theme": "Utilisation pratique des LLM",
+    "sous_theme": "Remplacement des outils traditionnels de recherche",
+    "verbatim": "un outil qui peut remplacer un moteur de recherche. et qui peut éviter d'aller gratter des réponses dans des forums ou des trucs genre Stack Overflow ou je sais pas quoi, et que du coup tu les as directement sur chatGPT, et tu perds moins de temps que d’aller les chercher sur Internet."
+  },
+  {
+    "theme": "Perception des outils numériques",
+    "sous_theme": "Utilisation ciblée et spécialisée",
+    "verbatim": "j’utilise pas ChatGPT pour autre chose. Et après, pour d'autres fonctions, j'ai d'autres outils que chatGPT."
+  },
+  {
+    "theme": "Rapprochement sociétal des technologies",
+    "sous_theme": "Analogie avec les outils quotidiens",
+    "verbatim": "une voiture, c'est un outil, c'est cool, ça nous permet de nous déplacer."
+  },
+  {
+    "theme": "Éfficacité et gain de temps",
+    "sous_theme": "Optimisation des processus de recherche",
+    "verbatim": "si j'ai un truc rapide à chercher sur du code ou des programmes ou des trucs comme ça et que j'ai pas envie de m'embê"
+  },
+  {
+    "theme": "Impact des outils IA sur les méthodes d'apprentissage",
+    "sous_theme": "Modification des processus de travail académique",
+    "verbatim": "En tout cas, ça redéfinit la manière dont les étudiants travaillent. Soit rechercher de l'information, soit créer du... pas du contenu, mais genre des... créer des... ce qu'il doit faire en cours. Que ça soit des rédactions, du code, des machins, des trucs comme ça."
+  },
+  {
+    "theme": "Limites de l'usage des outils IA",
+    "sous_theme": "Inutilité des sorties brutes sans adaptation",
+    "verbatim": "tu ne peux pas générer sur chatGPT et rendre le truc comme chatGPT l'a fait."
+  },
+  {
+    "theme": "Défis techniques et pratiques de l'IA",
+    "sous_theme": "Incompatibilité des résultats générés avec les besoins spécifiques",
+    "verbatim": "si tu lui demandes du code que ça marche directement et ben tu le mets dans ton code et c'est cool mais après des fois tu as le code que chatGPT génère est pas… fit pas avec ce que toi tu avais dans ton code Ou alors, ben il faut reprendre chaque GPT plusi"
+  }
+]

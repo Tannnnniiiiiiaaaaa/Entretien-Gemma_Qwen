@@ -1,0 +1,72 @@
+[
+  {
+    "theme": "Consentement et confidentialité",
+    "sous_theme": "Anonymisation des données personnelles",
+    "verbatim": "les données personnelles seront anonymisées pour l’analyse."
+  },
+  {
+    "theme": "Objectifs de l’étude",
+    "sous_theme": "Focus sur l’utilisation des IA dans les sciences humaines",
+    "verbatim": "l’objectif de notre étude, c’est de comprendre l’utilisation et la pratique des IA par les étudiants en sciences hum"
+  },
+  {
+    "theme": "Utilisation des outils IA",
+    "sous_theme": "Dépendance exclusive à ChatGPT",
+    "verbatim": "je n’utilise que ChatGPT."
+  },
+  {
+    "theme": "Connaissance des alternatives",
+    "sous_theme": "Inconnaissance des autres outils",
+    "verbatim": "Je n’utilise pas non plus Copilot. Je n’ai pas non plus connaissance de Deepseek."
+  },
+  {
+    "theme": "Perception de l’IA",
+    "sous_theme": "Mécanisme des systèmes IA comme base de données",
+    "verbatim": "c'est une grosse base d'information qui, euh par l'accumulation de connaissances et par le développement d'une sorte de mémoire, des anciennes questions et de ce qui s’y trouve, permet de répondre à des tâches, particulièrement des tâches un peu répétitives et de recherche pure que l'intelligence va remplacer."
+  },
+  {
+    "theme": "Enjeux éthiques associés",
+    "sous_theme": "Association de l’IA à la triche",
+    "verbatim": "ça évoque la triche."
+  },
+  {
+    "theme": "Perception des risques associés à l'IA",
+    "sous_theme": "Utilisation pour tricher",
+    "verbatim": "Je trouve qu'on l’utilise beaucoup pour tricher. Je veux dire je pense un peu à ça. Pour moi, après, c'est vraiment un peu un outil malin de recherche."
+  },
+  {
+    "theme": "Crainte de la substitution humaine par l'IA",
+    "sous_theme": "Remplacement des tâches humaines",
+    "verbatim": "La peur qu’il remplace l’humain ? [...] parce que souvent c'est qu'il est associé à ça. [...] on se demande si certaines tâches euh… qu’on croyait réservées aux humains, enfin, ne vont pas être effectuées par l’IA."
+  },
+  {
+    "theme": "Questionnement sur l'adaptation humaine",
+    "sous_theme": "Incertitude face aux transformations socio-professionnelles",
+    "verbatim": "Ça soulève des questions sur notre place dans le travail, mais aussi sur notre capacité à nous adapter."
+  },
+  {
+    "theme": "Contexte éducatif et découverte de l'IA",
+    "sous_theme": "Intégration de l'IA dans la pédagogie",
+    "verbatim": "En prépa… notre professeur nous dit : « Il faut vite faire un exposé parce qu’il faut que vous soyez au courant de ce que c’est, comment ça marche, parce que ça, là, en termes d’actualité, c’est vraiment une actualité brûlante, et qu’il faut maîtriser. »"
+  },
+  {
+    "theme": "Enjeux éthiques et sociaux de l'IA",
+    "sous_theme": "Ambivalence entre outil utile et menace",
+    "verbatim": "Pour moi, après, c'est vraiment un peu un outil malin de recherche. [...] mais globalement il y a aussi un peu la peur qu’il remplace l’humain."
+  },
+  {
+    "theme": "Utilisation de la technologie dans les études",
+    "sous_theme": "Fréquence et moment de l'utilisation",
+    "verbatim": "Je pense au minimum deux ou trois fois par semaine."
+  },
+  {
+    "theme": "Perception et réticence initiale",
+    "sous_theme": "Hésitation avant l'adoption",
+    "verbatim": "je ne l’ai pas du tout utilisé en prépa... j’ai souvent été un peu réticente à ça. Je me disais : « Oui, mais enfin, finalement, je peux le faire, et donc, euh, sans que je le fasse moi-même. »"
+  },
+  {
+    "theme": "Contexte académique d'utilisation",
+    "sous_theme": "Matières spécifiques et pratiques",
+    "verbatim": "j’avais des matières, euh…, j’avais de l’économétrie, par exemple, et des matières assez formalisées, et surtout des cours de code, et donc, où c’est très pratique, justement, pour faire du code."
+  }
+]

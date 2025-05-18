@@ -1,0 +1,27 @@
+[
+  {
+    "theme": "Thème 3: Contexte de la recherche",
+    "sous_theme": "Sous-thème: Objectif de l'étude",
+    "verbatim": "Verbatim: \"je suis une étudiante en data science à l’université Gustave Eiffel, et je réalise un projet de recherche sur les usages et pratiques de ChatGPT"
+  },
+  {
+    "theme": "Perception de l'intelligence artificielle",
+    "sous_theme": "Conception de la mémoire et de la connaissance",
+    "verbatim": "c’est surtout une énorme mémoire, quelque chose qui a euh... enfin, je sais plus, j’avais vu des chiffres qui disaient qu’en gros, ChatGPT connaît tout Wikipédia, et Wikipédia, c’est qu’une infime partie de tout ce qu’il connaît."
+  },
+  {
+    "theme": "Perception de l'impact de l'IA",
+    "sous_theme": "Croyance en une révolution technologique disruptive",
+    "verbatim": "c’était annoncé comme une immense révolution. Euh, j’ai vu des personnes, enfin, j’avais surtout écouté des interviews, notamment une interview de Laurent Alexandre, euh, qui en gros disait que l’intelligence artificielle allait remplacer l’humain dans absolument tout."
+  },
+  {
+    "theme": "Méfiance envers les outils d'IA",
+    "sous_theme": "Incertitude quant à la fiabilité des informations produites",
+    "verbatim": "je suis toujours assez méfiant vis-à-vis de ChatGPT, des... bah, les outils, j’ai pas spécialement testé, mais euh, surtout de ChatGPT, parce que les rares fois où, enfin, chaque fois que je l’utilisais, j’étais quand même très méfiant."
+  },
+  {
+    "theme": "Limites observées de l'IA",
+    "sous_theme": "Erreurs de contenu et falsifications détectées",
+    "verbatim": "il me sortait des euh, des références qui n’existaient pas, soit avec de vrais auteurs, mais avec un livre... enfin, on ne sait pas, ça sortait parce que le livre n’existait pas. Soit il se trompait, par exemple, de dates, euh, soit il m’inventait carrément des noms."
+  }
+]

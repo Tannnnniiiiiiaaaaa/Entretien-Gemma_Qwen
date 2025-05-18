@@ -1,0 +1,52 @@
+[
+  {
+    "theme": "Consentement et cadre de l'étude",
+    "sous_theme": "Présentation des garanties éthiques",
+    "verbatim": "Est-ce que tu es d'accord que je t'enregistre ? [...] Il n'y a pas de bonne ou de mauvaise réponse."
+  },
+  {
+    "theme": "Parcours académique du participant",
+    "sous_theme": "Description des études supérieures",
+    "verbatim": "Lucie Ostorero, mon parcours universitaire, donc seulement à l'université, j'ai commencé un bachelor en sciences sociales en 2020 et j'ai fini en 2023. Et j'ai commencé un master en journalisme à Neuchâtel en 2023, enfin l’année 2023-2024."
+  },
+  {
+    "theme": "Structure de l'entretien",
+    "sous_theme": "Orientation méthodologique de la recherche",
+    "verbatim": "Je vais poser des questions sur plusieurs thèmes généraux. Et le premier [...]."
+  },
+  {
+    "theme": "Compréhension de la technologie",
+    "sous_theme": "Mécanisme algorithmique et probabilités",
+    "verbatim": "La probabilité, je sais que c'est une des probabilités qui répondent ça, après ça."
+  },
+  {
+    "theme": "Découverte et exposition médiatique",
+    "sous_theme": "Influence des médias dans l'apprentissage",
+    "verbatim": "J'ai découvert ça parce que j'ai commencé à regarder la RTS, à voir"
+  },
+  {
+    "theme": "Utilisation des IA génératives",
+    "sous_theme": "Fréquence d'utilisation variable",
+    "verbatim": "tous les jours, mais des fois, ça m'arrive de l'utiliser plus régulièrement."
+  },
+  {
+    "theme": "Évolution de l'utilisation",
+    "sous_theme": "Baisse de l'utilisation au fil du temps",
+    "verbatim": "je dirais maintenant, il y en a tellement que du coup des IA génératives, j'ai plus l'impression qu'au début, je l'utilisais parce que je me rendais compte que ça pouvait être utile. Maintenant, ce n'est pas croissant, voire plutôt décroissant."
+  },
+  {
+    "theme": "Diversité des outils utilisés",
+    "sous_theme": "Prédilection pour les outils textuels",
+    "verbatim": "j'utilise vraiment pas trop l'intelligence artificielle pour les images ou générer des images, c'est plus vraiment le texte."
+  },
+  {
+    "theme": "Connaissance et influence externe",
+    "sous_theme": "Influence médiatique sur l'adoption",
+    "verbatim": "j'avoue que je connais un peu plus Chat-GPT parce que assez rapidement on en a entendu parler, donc on a aussi entendu parler de quoi elle é"
+  },
+  {
+    "theme": "Adaptation aux nouvelles technologies",
+    "sous_theme": "Expérimentation de nouveaux outils",
+    "verbatim": "Oui, il y a Claude, je sais qu'il y a aussi Gemini, donc c'est l'IA générative de Google. Parfois, pas mal, Perplexity, ça donne des sources et c'est vraiment pratique."
+  }
+]
